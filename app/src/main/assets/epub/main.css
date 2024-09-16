@@ -204,7 +204,7 @@ h2.head {
     font-weight: bold;
     font-size: 1.1em;
     margin: 1em 2em 2em 0;
-    color: #3f83e8;
+    color: #C03F3C;
     line-height: 140%;
 }
 
@@ -325,9 +325,9 @@ div.duokan-image-single {
     text-align: center;
     margin: 0.5em auto; /*插图盒子上下外边距为0.5em，左右设置auto是为了水平居中这个盒子*/
 }
-img.picture-80 {
+img.picture-100 {
     margin: 0; /*清除img元素的外边距*/
-    width: 80%; /*预览窗口的宽度*/
+    width: 100%; /*预览窗口的宽度*/
     box-shadow: 3px 3px 10px #bfbfbf; /*给图片添加阴影效果*/
 }
 p.duokan-image-maintitle {
